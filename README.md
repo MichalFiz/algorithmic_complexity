@@ -44,7 +44,7 @@ def fib1(n):
 ![FdThzTH](https://user-images.githubusercontent.com/117569554/200189037-2f351031-69e1-4c15-98ce-0ac605b0a563.png)
 
 
-Wykres porównujący ob oliczenia.
+Wykres porównujący oba obliczenia.
 
 
 ![YhL2gcZ](https://user-images.githubusercontent.com/117569554/200169817-fcc32007-df10-4d43-8d1b-c4248cadf4e4.png)
