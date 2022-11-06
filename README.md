@@ -21,7 +21,9 @@ def fib2(n):
 
 ## Obliczenie ciągu Fibonacciego za poocą funkcji rekulencyjnej. Funkcja odwołuje się tylko do dwóch porzenich wartości ciągu co pozwala obliczyć znacznie większe wartosci ciągu.
 
-       ![300px-Turing_Machine](https://user-images.githubusercontent.com/117569554/200188533-a73613f9-05b0-4a15-853f-4ee304fdfd6a.png
+![300px-Turing_Machine](https://user-images.githubusercontent.com/117569554/200188634-1ef07d4b-d138-43cd-b3cf-055c2d12dc1c.png)
+
+
 
 ```py
 def fib1(n):
