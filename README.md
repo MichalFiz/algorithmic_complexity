@@ -1,7 +1,7 @@
 # algorithmic_complexity
 analiza złożoności obliczeniowej
 
-## Iteracyjny Fibonacci o złożoności liniowej.
+## Funkcja iteracyjna ciągu Fibonacciego. Dla przeciętnego komputera możliwe przeliczenie do kilkudziesięciu pierwszych wartości ciągu.
 
 ```py
 def fib2(n):
@@ -19,7 +19,9 @@ def fib2(n):
     return lst
 ```
 
-## Rekulencyjny Fibonacci.
+## Obliczenie ciągu Fibonacciego za poocą funkcji rekulencyjnej. Funkcja odwołuje się tylko do dwóch porzenich wartości ciągu co pozwala obliczyć znacznie większe wartosci ciągu.
+
+       ![300px-Turing_Machine](https://user-images.githubusercontent.com/117569554/200188533-a73613f9-05b0-4a15-853f-4ee304fdfd6a.png
 
 ```py
 def fib1(n):
@@ -29,7 +31,8 @@ def fib1(n):
         return fib1(n - 1) + fib1(n - 2)
     else:
         return False
-        
+
+ 
 ```
 
 ![firefox_wNomumR0kv](https://user-images.githubusercontent.com/117569554/200170680-fab320c2-ddb4-4de1-aeb4-6ffe914cac31.png)
