@@ -32,6 +32,8 @@ def fib1(n):
         
 ```
 
+![firefox_wNomumR0kv](https://user-images.githubusercontent.com/117569554/200170680-fab320c2-ddb4-4de1-aeb4-6ffe914cac31.png)
+
 
 
 
