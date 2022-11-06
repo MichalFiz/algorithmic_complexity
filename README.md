@@ -19,7 +19,7 @@ def fib2(n):
     return lst
 ```
 
-## Obliczenie ciągu Fibonacciego za poocą funkcji rekulencyjnej. Funkcja odwołuje się tylko do dwóch porzenich wartości ciągu co pozwala obliczyć znacznie większe wartosci ciągu.
+## Obliczenie ciągu Fibonacciego za pomocą funkcji rekulencyjnej. Funkcja odwołuje się tylko do dwóch porzenich wartości ciągu co pozwala obliczyć znacznie większe wartosci ciągu.
 
 ![300px-Turing_Machine](https://user-images.githubusercontent.com/117569554/200188634-1ef07d4b-d138-43cd-b3cf-055c2d12dc1c.png)
 
@@ -37,9 +37,10 @@ def fib1(n):
  
 ```
 
-![firefox_wNomumR0kv](https://user-images.githubusercontent.com/117569554/200170680-fab320c2-ddb4-4de1-aeb4-6ffe914cac31.png)
+![FdThzTH](https://user-images.githubusercontent.com/117569554/200189037-2f351031-69e1-4c15-98ce-0ac605b0a563.png)
 
 
+Wykres porównujący ob oliczenia.
 
 
 ![YhL2gcZ](https://user-images.githubusercontent.com/117569554/200169817-fcc32007-df10-4d43-8d1b-c4248cadf4e4.png)
