@@ -19,6 +19,10 @@ def fib2(n):
     return lst
 ```
 
+![FYMIA6L](https://user-images.githubusercontent.com/117569554/200189246-2f5d0581-9d4c-4007-9abe-007cabb06727.png)
+
+Wykres dobrze obrazuje, ile czasu potrzebuje laptop do wyliczenia kolejnych watości liczy Fibonaccieg.
+
 ## Obliczenie ciągu Fibonacciego za pomocą funkcji rekulencyjnej. Funkcja odwołuje się tylko do dwóch porzenich wartości ciągu co pozwala obliczyć znacznie większe wartosci ciągu.
 
 ![300px-Turing_Machine](https://user-images.githubusercontent.com/117569554/200188634-1ef07d4b-d138-43cd-b3cf-055c2d12dc1c.png)
